@@ -79,6 +79,11 @@ JavaScript powers the interactive features of the planner, including:
 
 The application updates instantly without requiring page reloads, creating a smooth and responsive user experience.
 
+## Theme Switching (Morning & Night Mode)
+
+I added a theme toggle that lets users switch between a light “morning mode” and a dark “night mode.” The morning mode uses soft, light green tones for a fresh and calm feel, while the night mode switches to darker shades for better viewing in low light. This is handled using JavaScript by toggling a `dark` class on the body, and the button icon changes between ☀ and ☾ to reflect the current mode.
+
+
 ## Conclusion
 
 GrowQuest Planner combines productivity tools with a calming plant-growth concept. Through nature-inspired visuals, real-time progress tracking, due date monitoring, and interactive task management, the application transforms everyday planning into a more engaging and rewarding experience.
